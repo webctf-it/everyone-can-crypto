@@ -1,1 +1,1 @@
-A crypto challenge
+A crypto challenge about the discrete logarithm problem
